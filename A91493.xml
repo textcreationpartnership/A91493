@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular and exact account of the trial of Mary Compton, the bloody and most cruel midwife of Poplar: as also of her maid, Mary Compton the younger; who were both araigned in one indictment for felony and murder, in destroying, starving to death, and famishing several poor infant babes: : as also Ann Davis as accessary.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91493</idno><idno type="EEBO-CITATION">43078109</idno>
+  <idno type="VID">151632</idno>
+  <idno type="EEBO-PROQUEST">2240891425</idno>
+  
+            <idno type="STC">Wing P588A</idno>
+            <idno type="STC">ESTC R181482</idno>
+            <idno type="OCLC">43078109</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151632)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2268:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular and exact account of the trial of Mary Compton, the bloody and most cruel midwife of Poplar: as also of her maid, Mary Compton the younger; who were both araigned in one indictment for felony and murder, in destroying, starving to death, and famishing several poor infant babes: : as also Ann Davis as accessary.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin, near the Oxford-Arms in Warwick Lane,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Compton, Mary --  Trials, litigation, etc.</term>
+               <term type="personal_name">Compton, Mary, --  the younger --  Trials, litigation, etc.</term>
+               <term type="personal_name">Davis, Ann --  Trials, litigation, etc.</term>
+               <term type="topical_term">Trials (Infanticide) --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:151632:1"/>
+            <head>A Particular and Ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct Account of the Trial of <hi>Mary Compton,</hi> the Bloody and most Cruel Midwife of <hi>Poplar:</hi> As also of her M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, <hi>Mary Compton</hi> the Younger; who were both Arraigned in one Indictment for Felony and Murder, in Destroying, Starving to Death, and Famishing several Poor Infant Babes: As also <hi>Ann Davis</hi> as Accessary.</head>
+            <p>ON <hi>Thursday</hi> the first day of the Sessions, about Ten a Clock in the Morning, she was brought down to the Sessions-house upon a Porters Back, being very Lame in her Limbs, and was set to the Bar in a Chair, her Maid standing by her, <hi>&amp;c.</hi> After which, silence being com<g ref="char:EOLhyphen"/>manded, and the usual Proclamation being made, the Indictment was read, as followeth.</p>
+            <p>
+               <hi>Clerk</hi> reads, <hi>Mary Compton</hi> the Elder, hold up your hand: <hi>Mary Compton</hi> the Younger, hold up your hand, [<hi>which they did</hi>]</p>
+            <p>
+               <hi>You stand Indicted by the Names of</hi> Mary Compton <hi>the Elder, Widow; and</hi> Mary Compton <hi>the Younger, Spinster, of the Parish of</hi> Stepney, <hi>in the County of</hi> Middlesix, <hi>for that you Two not having God before your Eyes, but being moved and feduced by the Devil, the 28th day of</hi> February, <hi>in the fifth year of the Reign of our Sovereign Lord and Lady, the King and Queen, at the Parish aforesaid, and County afor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>said; in and upon a Female Infant Child, under the Age of twelve Months, Feboniously, Wilfully, Maliciously, and Devilishly, you did make an Assault; and that you the said</hi> Mary Compton <hi>the El<g ref="char:EOLhyphen"/>der, afterwards between the said 28th day of</hi> February, <hi>and the 20th day of</hi> August <hi>last past, you did not allow to the said Female Infant, sufficient and wholesome Sust<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nance, and necessary Nourishment to sustain its Life, by reason of which the said Infant for want of Nourishment did languish, and lived languishing until the 20th day of</hi> August, <hi>on which 20th day of</hi> August <hi>the said Infant for want of due Sustenance, and wholsome Nourishment, did Perish and Dye.</hi>
+            </p>
+            <p>
+               <hi>And that you the said</hi> Mary Compton <hi>the Yunger, was pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, Abetting, Aiding, and Assisting to her the said</hi> Mary Compton <hi>the Elder, in this Felony and Murther committed by her the said</hi> Mary Compton <hi>the Elder, against the Peace of our Sovereign Lord and Lady▪ the King and Queen, their Crown and Dignity. How say you,</hi> Mary Compton <hi>the Elder▪ are you guilty of this Felony and Murder, whereof you stand indicted, or not guilty?</hi>
+            </p>
+            <p>
+               <hi>Mary Compton</hi> the Elder, Not guilty.</p>
+            <p>Clerk, Mary Compton <hi>the Younger; How say you, are you guilty as Accessary to the Felony and Murther committed by her the said</hi> Mary Compton, <hi>or not guilty?</hi>
+            </p>
+            <p>
+               <hi>Mary Compton</hi> the Younger, Not guilty.</p>
+            <p>Clerk, <hi>You stand a Second time likewise Indicted for the Murther of a Male Child in the like manner: are you guilty, or not guilty?</hi>
+            </p>
+            <p>
+               <hi>Mary Campton</hi> the Elder, Not guilty.</p>
+            <p>
+               <hi>Mary Compton</hi> the Younger. Not guilty.</p>
+            <p>Clerk, <hi>You stand a Third time indicted by the same Names, for the Murder of</hi> John Compton, <hi>an Infant, in like manner;</hi> viz. <hi>in not allowing him necessary Sustenance and Nourishment: How say you, are you guilty of this Felony and Murder, or not guilty?</hi>
+            </p>
+            <p>
+               <hi>Mary Compton</hi> the Elder, Not guilty.</p>
+            <p>
+               <hi>Mary Compton</hi> the Younger, Not guilty.</p>
+            <p>Clerk, <hi>You stand a Fourth time indicted for the Murther of one</hi> Ann Compton, <hi>an Infant▪ in like manner as the former. How say you, are you guilty of this Felony and Murther, or not guilty?</hi>
+            </p>
+            <p>
+               <hi>Mary Compton</hi> the Elder, Not guilty.</p>
+            <p>
+               <hi>Mary Compton</hi> the Younger, Not guilty.</p>
+            <p>
+               <hi>Clerk, Culprit,</hi> How will you be tried?</p>
+            <p>
+               <hi>Prisoners,</hi> By God and our Country.</p>
+            <p>
+               <hi>Clerk,</hi> God send you a good Deliverance.</p>
+            <p>On <hi>Friday</hi> Night about Six a Clock, the Prisoners were brought to the Bar a second time; and the Jury sworn to try the Cause, were these Gentlemen, whose Names follow;</p>
+            <list>
+               <item>
+                  <hi>William Dynn,</hi>
+                  <abbr>Esq;</abbr>
+               </item>
+               <item>
+                  <hi>Henry Russel,</hi>
+               </item>
+               <item>
+                  <hi>Gilbert Herring,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Clark,</hi>
+               </item>
+               <item>
+                  <hi>John Green,</hi>
+               </item>
+               <item>
+                  <hi>John Groves,</hi>
+               </item>
+               <item>
+                  <hi>John Hall,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Duncks,</hi>
+               </item>
+               <item>
+                  <hi>John Biscoe,</hi>
+               </item>
+               <item>
+                  <hi>Robert Hopkins,</hi>
+               </item>
+               <item>
+                  <hi>William Jennings,</hi>
+               </item>
+               <item>
+                  <hi>Will Gunstone,</hi> Gentlemen.</item>
+            </list>
+            <p>Then the King's Coroner for the County, called the Evidence for the King and Queen; which were the Church-Wardens, Overseers of the Poor, and others, the Inhabitants of <hi>Poplar,</hi> to the number of 12 or 15. who were all sworn; and the first that gave Evidence, was <hi>Richard Drake;</hi> but before he began, the Lord Chief Justice <hi>Holt,</hi> who tried the Cause, spake to the Mid<g ref="char:EOLhyphen"/>wife to mind what was said against her; ordering the Keeper of the Jayl to let her know (she being a little dull of hearing) that she was now upon her Life, and therefore it did concern her to hear the Evidence.</p>
+            <p>Then <hi>Drake</hi> deposed, That a little time before <hi>Whitsuntide</hi> last he was coming by the Midwifes Door in <hi>Poplar</hi> about Nine or Ten a Clock at Night, and hearing a great noise, he went into the House to see what was the matter; and when he came in, he found the Prisoner, <hi>Mary Compton</hi> the Elder, much dis<g ref="char:EOLhyphen"/>guised in Drink, and the Children crying about her for Bread. And he askt her, why she did not give them some Victuals? And he looking further into the House, to see if there were any Food, he could find nothing, neither Bread, Butter, Cheese, nor no manner of Sustenance whatever; and there was a little Infant in the Cradle, tearing, rending, and yawning its Mouth to and fro for lack of Nourishment; and a Neighbour hard-by that came in, gave it some Milk After this the Church-wardens and Overseers warned her out of the Town, for which they had no thanks from the Court, being told, That it was their Duty to have taken particular care of poor Children. About the 20th of <hi>August</hi> last, there was a Complaint made to the Minister of the Parish, by some of the Neighbours, that the Children want<g ref="char:EOLhyphen"/>ed Sustenance, and he sent them some Relief, and 3 Children were put out from her; two of them could go about the House, and one lay in a Cradle, which died about 3 days after it was removed to another Nurse. The Nurse coming to the Midwifes house to tell a little Boy (aged about 7 years) that the Child was dead, and he must go to the burying: <hi>Why,</hi> says the Boy, <hi>there is one Child, a Brother of mine, lies dead in the Cellar, take them, and bury them both together.</hi> This raised a great Consternation, and mighty Jealousy in him and the rest; insomuch, that they made a diligent search in the Cellar, in every hole and Corner, and at last on a Shelf in an Hand-basket, there they found two Children dead with the Maggots crawling about them, to the great Terror and Amazement of all that beheld so dre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dful a sight. So he askt the Maid, (she being in the House, but the old Woman was gone abroad) what Victuals she gave the Children; and she said, she had nothing but Cheese; What do you do for Drink: Why, I give it Water. What if you can't get it? Then, says she, we must go without it: And where is your Nurse? Why, she is gone to fetch us some Bread, but she never came at them. And the two Children that were found in the Hand-basket, were quite rotten, and almost a hatful of Maggots and Vermine came tumbling out of their Bellies, and it could not be discerned whether they were Male or Female, they had lain there so long, that they dropt to pieces when the Basket was first opened, and stunk so prodigiously, that no one was able to bear it. Then they dug in the same Cellar, and there they found the Bones and Skulls of another Child or two; there were two pieces of Skulls found, one of them was pretty dry, and the other was fresh, and the Brains lookt white, and streaks of Blood appeared in it, as if it had not been long buri<g ref="char:EOLhyphen"/>ed. This was <hi>Drake</hi>'s Evidence.</p>
+            <p>
+               <hi>Court,</hi> Old Woman, will you ask that man any questions?</p>
+            <p>
+               <hi>Midwife,</hi> He is the greatest Rogue in <hi>England,</hi> a wicked Liar.</p>
+            <p>Then <hi>Daniel Parnel</hi> was produced, Overseer of the Poor of <hi>Poplar,</hi> who deposed, That he was pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt at the same time with <hi>Drake,</hi> and the rest: and what <hi>Drake</hi> had deposed, was matter of fact, and the very truth; and that he ordered one Mrs. <hi>Green<g ref="char:EOLhyphen"/>wood</hi> to look to the Children; and that the Old Woman had li<g ref="char:EOLhyphen"/>ved there about three years, and that he saw the Children that were found in the Hand-basket, and that the Maggots pour'd out at the Eyes of them, they were so rotten, which he said was a most dreadful sight to behold; Lord! what Woman would be so Bloody, so Monstrous, so Cruel, so much bereft of all Hum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nity, all natural Affections, worse than the Bruit Beasts that perish; the very Wild Beasts of Prey take care for their young Ones, and yet this wretched Creature had no mercy on those poor Innocent Babes. Oh! what manner of Account can she give to that offended and justly Incensed Judge, both of Heaven and Earth, the Lord <hi>Jehovah,</hi> before whose Judgment-Seat she must at length appear, to answer for the Bloodshed. Oh! that all Mothers and Nursing-people would be warned by such an unparallell'd Example as this, <hi>&amp;c.</hi>
+            </p>
+            <p>Mr <hi>Parnell</hi> went on, and declared, That he saw the pieces of Skulls likewise that were dug up in the Cellar, and one had hair upon it; and that when she heard the Children were found, she sent <hi>Ann Davis</hi> to pay the Rent for the House (which was 7 <hi>l. per Annum</hi>) and to get the Children away, but she came too late; and that she had reported that she had buried a Sea<g ref="char:EOLhyphen"/>man's Wife's Child in the Cellar; and that he saw the three live Children in the House; and that they run up and down in Holes and Corners, and were in such a sad condition, that no mortal man never saw before; and one lay in the Cradle gaping for Food, and when it came to have some warm Suste<g ref="char:EOLhyphen"/>nance, it died; it thrust the Lips on't out, and made what signs it could, but it could not speak; and it wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> past crying it was so weak; and that it was about a quarter old when it dyed.</p>
+            <p>The next Witness was Mrs. <hi>Greenwood;</hi> who deposed, That she took the Child that was found in the Cradle, to nurse, the 18th of <hi>August</hi> last, from the Church-warden; and when she had it first, it was in a manner dead; and when she had it to her House, she first gave it some Milk, and then opened the Head of it, and the Head-cloaths were perished close to the Skull, and stuck in the Flesh; and the Ears of it were as it were rotten, and ready to drop off, and stunk most loathsomly for want of look<g ref="char:EOLhyphen"/>ing after; and the very Skin upon the Back, and the Lips and Breech of the poor Child came off with the Clouts; and there were perfect holes to be seen in the Hips of it; and that it was her Opinion, That it was perfectly starved to death; and that it died within three days after she had it.</p>
+            <pb facs="tcp:151632:2"/>
+            <p>The next was <hi>George Hust;</hi> who declared upon Oath, That he was an Assistant to the Church-wardens, <hi>&amp;c.</hi> at the searching the Cellar; and that the Door was bolted with three Bolts; and when it was opened, there came so noisom a smell, that they were scarce able to go into the Cellar; and that he found the Basket first upon the shelf, and he took it down; and it was so heavy, that it had like to have fell out of his hand; he lookt into it, and it was covered with Rags, which he immediately uncovered; and in the Basket were two Corpses of dead Children which lookt as black as his Hat, and the Vermin crawled out of their Bodies alive, almost a thousand at a time, which made him so sick, that he was forced to get some Drink.</p>
+            <p>Another Witness against her was Mr. <hi>Flower,</hi> a former Church<g ref="char:EOLhyphen"/>warden; who deposed, That he was concerned with the rest in this matter (being Overseer); and that he found the Children in such plight as hath been before specified; and that after they had disposed of the three Children, one to one Nurse, and ano<g ref="char:EOLhyphen"/>ther to another, he lockt up the Door, and brought the Key to his House; and that about a day or two afterwards, there came a Woman (one Mrs. <hi>Davis</hi>) to him, with a strange Man, to ten<g ref="char:EOLhyphen"/>der the Rent of the House; withal intending, as he supposed, to take the Children along with her: But when she found how things went, she went away, and could not be heard of, <hi>&amp;c.</hi> He also saw the two Children in the Hand-basket, and those that were dug up.</p>
+            <p>
+               <hi>Sarah Winn</hi> deposed, That she saw the Children in this la<g ref="char:EOLhyphen"/>mentable and most pitiful estate; and the two dead Children in the Hand basket, and they were eaten up with Maggots; and that the Little Boy had told her there were divers Children mis<g ref="char:EOLhyphen"/>sing before, and that he saw one carried out dead in a Hand<g ref="char:EOLhyphen"/>basket; but the Boy was too young to make an Evidence. Fur<g ref="char:EOLhyphen"/>thermore, she declared, That the Child that was in the Cradle was perfectly perished, and become a perfect Anatomy; but she said it was a sweet Skin'd Child, about a Quarter old; and she did think in her Conscience it was starved to death.</p>
+            <p>One <hi>Mary Edwards</hi> declared, That she was at the House with the Children on a <hi>Monday,</hi> whilst the Maid <hi>Mary</hi> was gone abroad, and there she found nothing but Cheese; and she took up the Child out of the Cradle, and Madam <hi>Fynney,</hi> a good Gentlewo<g ref="char:EOLhyphen"/>man of <hi>Pop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> sent some Milk for it; and she took the Clouts and Headcloths from the Child, and it stuck fast to the Flesh, eat into it, and the Skin came off with it; and the Clothes drag<g ref="char:EOLhyphen"/>ged the Ears along with it: And also that she had been kept by the Old Woman, when she was young, and she did remember that she had been very unkind to her.</p>
+            <p>
+               <hi>Joannah Smith</hi> deposed, That she saw the same sight as the other had done in all its Circumstances; particularly, that she saw the Vermine craule out at the Mouths and Noses of the Chil<g ref="char:EOLhyphen"/>dren, <hi>&amp;c.</hi> And that the Church-wardens desired her, whenever she met Mrs <hi>Compton,</hi> or her Maid, to seize them. And about two or three days afterwards she had the good fortune (as she was going over the Water, to meet Madam <hi>Compton,</hi> and her Maid, in the <hi>Strand;</hi> and she said to her, how now, <hi>Mall,</hi> where are you a walking, and your Mistress? a little way, says she; Ay, but, says Mrs. <hi>Smith,</hi> you must go no farther; for the Children are starved; and there are two found in a Hand-basket in the Cellar, and they are rotten; and therefore you must both go along with me: She denied that she knew any thing of it, and was ve<g ref="char:EOLhyphen"/>ry troublesome, and strugled with Mrs. <hi>Smith,</hi> and would fain have got away from her; but she had assistance, and so she was, with her Maid, carried before a Magistrate, and committed to <hi>Newgate,</hi> having been about six weeks gone from her Children.</p>
+            <p>This was the sum and substance for the King and Queen. Next of all, the Church-wardens of St. <hi>Lawrence-Jury,</hi> St. <hi>Mary Cree-Church,</hi> and St. <hi>Mary-le-Bow,</hi> &amp;c. were called, who gave account what Children they had put to nursing to her; <hi>viz.</hi> St. <hi>Lawrence-Jury</hi> and St <hi>Mary Magdalen Milkstreet,</hi> being united Parishes, 5. <hi>Cree-Church</hi> 3. St. <hi>Mary-le-Bow,</hi> 3.</p>
+            <p>These were all set to her lately, and they gave her 5 <hi>l.</hi> a Child, and 3 <hi>l.</hi> a Child with them to take them wholly off of the Parish; and no account could be given what became of those Children so placed out to nurse to her; which matter was very ill resented by the Court. For all the Ends and Designs of Church-wardens and Overseers now-adays was to secure their Parishes, and had but little respect to the Life and well-being of the Infants. Yea, the Court did not spare to tell them who are Ma<g ref="char:EOLhyphen"/>sters of Parishes; That by such Indiscreet Actions as these, they made themselves Accessaries to the Murther of such poor Chil<g ref="char:EOLhyphen"/>dren, in selling their Lives (as it were) for 5 <hi>l.</hi> and 3 <hi>l.</hi> a Child.</p>
+            <p>Then the Court spake to the Old woman thus: <hi>Mary Compton,</hi> You are charged with the Murther of several Children, by star<g ref="char:EOLhyphen"/>ving of them to death. You did take young Children from Pa<g ref="char:EOLhyphen"/>rishes to breed up, and you did not do it as you ought to have done; there were some found buried in a Cellar, others in a Hand-basket; and there was one in a Cradle, in such a condi<g ref="char:EOLhyphen"/>tion, that the very Skin came off of its Head, the Ears rotted off; so that it did not die of any Sickness, but it was really rotten, and that was for want of Sustenance: They gave it Sustenance, and it took it eagerly, and this was a sign that it was starved to death: There were two Children found upon the Shelf, and the very Vermine crawled about them; why did not you bury them at the usual place? why did you conceal them? there was two pieces of Skulls found in the Cellar; one seemed to be fresh, and had the Brains; the other was putrified.</p>
+            <p>
+               <hi>Midwife.</hi> My Lord, I did not bury them there.</p>
+            <p>
+               <hi>Court.</hi> Why did not you give account what became of those Children? why did you go away, and leave your House?</p>
+            <p>
+               <hi>Midwife.</hi> Why, because I was forced to it, for fear of being arrested; I durst not come at my House; I was arrested but a lit<g ref="char:EOLhyphen"/>tle before, and the Children were taken with a Looseness and Vomiting. And because I was not at home, my Maid could not bury them. This Man, <hi>Drake,</hi> is a great Rogue: Then she called for Witnesses.</p>
+            <p>
+               <hi>Robert Soaper, Mary Shepley, Eliz. Cook, Mary Scutts, Kathe<g ref="char:EOLhyphen"/>rine Cook,</hi> and her Daughter.</p>
+            <p>Who all declared upon Oath, That they had known her for several years; and formerly she behaved her self fairly; but as for this matter in hand, they were all strangers to it, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Midwife,</hi> My Lord, my Children never wanted for any thing, tho I was not at home.</p>
+            <p>Mr. <hi>Drake,</hi> My Lord, she has a Husband living now, his name is <hi>Nicholas Compton,</hi> he was alive about a month ago.</p>
+            <p>
+               <hi>Midwife,</hi> My Lord, he tells a damn'd Lye. My Children ne<g ref="char:EOLhyphen"/>ver wanted for any thing; I have brought up a great many that are men and women now, and I never used any of them amiss in my life. My Lord, this Fellow, <hi>Drake,</hi> has Arrested me in an Action of 40 <hi>l.</hi> at the suit of one <hi>Stone,</hi> and I was fain to keep abroad.</p>
+            <p>
+               <hi>Court,</hi> Prove that any body occasioned you to be absent from your house.</p>
+            <p>
+               <hi>Midwife,</hi> May it please you, my Lord, they did do it, and they would have done it again.</p>
+            <p>
+               <hi>Drake,</hi> I never Arrested her in my life; but I told her there was an Action would come out against her, that was all.</p>
+            <p>
+               <hi>Midwife,</hi> You are a Lying Rogue.</p>
+            <p>Then the Court mildly reproved her, and caution'd her to be better advised, and to give better language, forasmuch as such a Carriage did not become a person under such Circumstances as hers; therefore it would be best for her to make the best De<g ref="char:EOLhyphen"/>fence she could; and asked her if she had any more to say? She answered, No, my Lord.</p>
+            <p>Then the Maid was asked, What she had to say? She answer<g ref="char:EOLhyphen"/>ed, That her Mistress when she went away left her no money, and said she would be at home at night; and she went away by reason the Baker threatned to Arrest her for 3 <hi>l.</hi> for Bread, and was gone away 6 weeks; and she for her part did not know any thing how the Children came into the Cellar; and there was no Proof against her.</p>
+            <p>Having done on all sides, the Court summ'd up the Evidence very distinctly to the Gentlemen of the Jury, putting them in mind what a weighty Case lay before them, desiring them to be careful, and to consider what a most Horrid Fact the Prisoner stood charged with, and to bring in a Verdict according to their Consciences, <hi>&amp;c.</hi>
+            </p>
+            <p>So they withdrew for about half an hour, and brought in this Verdict, <hi>That</hi> Mary Compton <hi>the Elder, was Guilty of Wilful Murther, upon all four Indictments; But the</hi> Maid <hi>was acquitted.</hi>
+            </p>
+            <p>
+               <hi>Ann Davis,</hi> Wife of <hi>Henry Davis,</hi> was tried for that she knowing <hi>Mary Compton,</hi> the Midwife, to have commit<g ref="char:EOLhyphen"/>ted the Murther upon the four Infants (as appears herein) she did harbour, comfort, and maintain her. And the method of doing it, was thus; She came to <hi>Poplar</hi> (after the Midwife was taken) and offered the Rent of the Mid<g ref="char:EOLhyphen"/>wife's House, which was unpaid, being 3 <hi>l.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>s.</hi> as also to take away the Children, and being not accepted, she went back to Mrs. <hi>Compton</hi> to <hi>Newington-Cawsey,</hi> where she was, and told her of it. And she said to her Maid, <hi>Ah!</hi> Mall, <hi>you have undone me.</hi> And further it was sworn, That she did advise Mrs. <hi>Comp<g ref="char:EOLhyphen"/>ton</hi> to get the two Children out of the Cellar, and bury them from her House; this was proved by the King's Coroner. She said upon her defence, That she was only to pay the Rent, and then to bring the live Children away, and not the dead. It was swore also, That she buried one Child of her own privately, not long since. It plainly appeared upon the whole matter, that she was Accessary to the old Midwife, and was an ill Woman. In the end she was found guilty, and burnt in the Hand.</p>
+            <div type="part">
+               <p>
+                  <hi>MR.</hi> Recorder <hi>declared in open Court this Session, That he finding that great and intolerable Trouble, and many unjust Suspicions and Reflections did arise by reason of the present Method of Reporting Convicts and their Crimes to Their Majesties after every Gaol Delivery of</hi> Newgate. <hi>Therefore desired, That for the future at every Sessions the Court would be pleased to consider the Convicts and their Crimes, and who were fit for Mercy; the which that Court did well approve of: And did further declare, That he would not vary from the same in any respect whatever, in his Report to Their Majesties; and desired, that no Application might be made to him to the contrary.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Londo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>Printed for</hi> Richard Baldwin, <hi>near the</hi> Oxford-Arms <hi>in</hi> Warwick Lane. 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
